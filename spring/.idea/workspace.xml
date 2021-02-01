@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c831db8-9055-4725-98bf-eeb5d0ca9972" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1nSdnmVXr52v9TusDY6xjRfRFZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_aop/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xian.service.impl" />
+      <recent name="com.xian.dao.impl" />
+      <recent name="com.xian" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xian.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_java\spring\spring_aop\src\main\resources" />
+      <recent name="D:\my_java\spring\spring_aop\src\main\java\com\xian\anno" />
+      <recent name="D:\my_java\spring\spring_aop\src\main\java\com\xian\aop" />
+      <recent name="D:\my_java\spring\spring_aop\src\main\java\com\xian\proxy\cglib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AccountController">
+    <configuration name="AccountController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xian.controller.AccountController" />
+      <module name="spring_tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xian.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xian.test.JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testQueryCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xian.test.JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateCRUDTest.testQueryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xian.test.JdbcTemplateCRUDTest" />
+      <option name="METHOD_NAME" value="testQueryOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xian.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xian.test.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccountController" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryCount" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryOne" />
+        <item itemvalue="JUnit.JdbcTemplateCRUDTest.testQueryAll" />
+        <item itemvalue="JUnit.JdbcTemplateTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c831db8-9055-4725-98bf-eeb5d0ca9972" name="Default Changelist" comment="" />
+      <created>1611387594139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611387594139</updated>
+      <workItem from="1611387595419" duration="12384000" />
+      <workItem from="1611468969435" duration="8936000" />
+      <workItem from="1611573891760" duration="7606000" />
+      <workItem from="1611834272996" duration="6324000" />
+      <workItem from="1612178044908" duration="4603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Project_Structure" timestamp="1612183584681">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612183584681" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612184888102">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612184888102" />
+    <state x="2610" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1611389673862">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611389673862" />
+    <state x="2664" y="426" width="504" height="187" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1611389559876">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2664" y="426" width="504" height="187" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611389559876" />
+    <state x="2669" y="426" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1611389567062">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2669" y="426" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611389567062" />
+    <state x="2554" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611392777466">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2554" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611392777466" />
+    <state x="2521" y="226" key="FileChooserDialogImpl" timestamp="1611387843169">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2521" y="226" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611387843169" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1612186632008">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612186632008" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1612186632008">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612186632008" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1612186632008">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612186632008" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1612186632008">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612186632008" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1611498960587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611475466137" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1611498960587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611475466136" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1611498960587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611475466136" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1611498960587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611475466137" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611498960587" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1612183259880">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612183259880" />
+    <state width="507" height="446" key="SwitcherDM" timestamp="1611842299402">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="507" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611842299402" />
+    <state x="2255" y="266" key="new project wizard" timestamp="1612183255810">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2255" y="266" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612183255810" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611843539898">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611843539898" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/xian/service/impl/UserServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
