@@ -38,7 +38,11 @@
 
     <!--通知 事务的增强-->
     <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <!--设置事务的属性信息-->
         <tx:attributes>
+            <!--*代表所有的方法,通配符, 可以分别配各个方法-->
+            <tx:method name="transfer" isolation="REPEATABLE_READ" propagation="REQUIRED" read-only="false"/>
+<!--            <tx:method name="update*" isolation="REPEATABLE_READ" propagation="REQUIRED" read-only="false"/>-->
             <tx:method name="*"/>
         </tx:attributes>
     </tx:advice>

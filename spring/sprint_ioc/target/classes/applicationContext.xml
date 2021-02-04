@@ -61,4 +61,7 @@
             </props>
         </property>
     </bean>
+
+    <import resource="applicationContext-product.xml"/>
+    <import resource="applicationContext-product.xml"/>
 </beans>
